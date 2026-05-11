@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Liens extraits</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 2rem 1rem;
+      color: #1a1a1a;
+      background: #fafafa;
+      line-height: 1.5;
+    }
+    h1 {
+      font-size: 1.75rem;
+      margin: 0 0 0.25rem;
+    }
+    .meta {
+      color: #666;
+      font-size: 0.9rem;
+      margin-bottom: 2rem;
+    }
+    h2 {
+      font-size: 1.2rem;
+      margin: 2rem 0 0.75rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 2px solid #e5e5e5;
+    }
+    .count {
+      color: #888;
+      font-weight: normal;
+      font-size: 0.9rem;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    li {
+      padding: 0.6rem 0.8rem;
+      margin-bottom: 0.4rem;
+      background: white;
+      border: 1px solid #e5e5e5;
+      border-radius: 6px;
+      transition: border-color 0.15s;
+    }
+    li:hover {
+      border-color: #2563eb;
+    }
+    a {
+      color: #2563eb;
+      text-decoration: none;
+      word-break: break-all;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .url {
+      font-size: 0.8rem;
+      color: #888;
+      margin-top: 0.25rem;
+      word-break: break-all;
+    }
+  </style>
+</head>
+<body>
+  <h1>Liens extraits</h1>
+  <div class="meta">Généré le 05/05/2026 20:19:12 · 44 lien(s) au total</div>
+  
+    <section>
+      <h2>Liens <span class="count">(31)</span></h2>
+      <ul>
+        
+          <li>
+            <a href="https://www.google.fr/alerts?source=alertsmail&amp;hl=fr&amp;gl=FR&amp;msgid=OTI5OTExNTgyMDg4ODc0NjA" target="_blank" rel="noopener noreferrer">
+              https://www.google.fr/alerts?source=alertsmail&amp;hl=fr&amp;gl=FR&amp;msgid=OTI5OTExNTgyMDg4ODc0NjA
+            </a>
+            
+          </li>
+        
+          <li>
+            <a href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.malwarebytes.com/fr/blog/news/2026/05/thousands-of-facebook-accounts-stolen-by-phishing-emails-sent-through-google&amp;ct=ga&amp;cd=CAEYACoROTI5OTExNTgyMDg4ODc0NjAyGTU4N2Y3ZWU4MzQ2YzU1MWI6ZnI6ZnI6RlI&amp;usg=AOvVaw0QhYk_AfY9mNm4ZQp0UPZm" target="_blank" rel="noopener noreferrer">
+              Des milliers de Facebook ont été piratés à la suite d&amp;#39;e-mails de hameçonnage envoyés via Google
+            </a>
+            <div class="url">https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.malwarebytes.com/fr/blog/news/2026/05/thousands-of-facebook-accounts-stolen-by-phishing-emails-sent-through-google&amp;ct=ga&amp;cd=CAEYACoROTI5OTExNTgyMDg4ODc0NjAyGTU4N2Y3ZWU4MzQ2YzU1MWI6ZnI6ZnI6RlI&amp;usg=AOvVaw0QhYk_AfY9mNm4ZQp0UPZm</div>
+          </li>
+        
+          <li>
+            <a href="https://www.google.fr/alerts/share?hl=fr&amp;gl=FR&amp;ru=https://www.malwarebytes.com/fr/blog/news/2026/05/thousands-of-facebook-accounts-stolen-by-phishing-emails-sent-through-google&amp;ss=fb&amp;rt=Des+milliers+de+Facebook+ont+%C3%A9t%C3%A9+pirat%C3%A9s+%C3%A0+la+suite+d%27e-mails+de+hame%C3%A7onnage+envoy%C3%A9s+via+Google&amp;cd=KhE5Mjk5MTE1ODIwODg4NzQ2MDIZNTg3ZjdlZTgzNDZjNTUxYjpmcjpmcjpGUg&amp;ssp=AMJHsmXUoVSZQBJGcvXK5YgtbLAEmq3CAg" target="_blank" rel="noopener noreferrer">
+              https://www.google.fr/alerts/share?hl=fr&amp;gl=FR&amp;ru=https://www.malwarebytes.com/fr/blog/news/2026/05/thousands-of-facebook-accounts-stolen-by-phishing-emails-sent-through-google&amp;ss=fb&amp;rt=Des+milliers+de+Facebook+ont+%C3%A9t%C3%A9+pirat%C3%A9s+%C3%A0+la+suite+d%27e-mails+de+hame%C3%A7onnage+envoy%C3%A9s+via+Google&amp;cd=KhE5Mjk5MTE1ODIwODg4NzQ2MDIZNTg3ZjdlZTgzNDZjNTUxYjpmcjpmcjpGUg&amp;ssp=AMJHsmXUoVSZQBJGcvXK5YgtbLAEmq3CAg
+            </a>
+            
+          </li>
+        
+          <li>
+            <a href="https://www.google.fr/alerts/share?hl=fr&amp;gl=FR&amp;ru=https://www.malwarebytes.com/fr/blog/news/2026/05/thousands-of-facebook-accounts-stolen-by-phishing-emails-sent-through-google&amp;ss=tw&amp;rt=Des+milliers+de+Facebook+ont+%C3%A9t%C3%A9+pirat%C3%A9s+%C3%A0+la+suite+d%27e-mails+de+hame%C3%A7onnage+envoy%C3%A9s+via+Google&amp;cd=KhE5Mjk5MTE1ODIwODg4NzQ2MDIZNTg3ZjdlZTgzNDZjNTUxYjpmcjpmcjpGUg&amp;ssp=AMJHsmXUoVSZQBJGcvXK5YgtbLAEmq3CAg" target="_blank" rel="noopener noreferrer">
+              https://www.google.fr/alerts/share?hl=fr&amp;gl=FR&amp;ru=https://www.malwarebytes.com/fr/blog/news/2026/05/thousands-of-facebook-accounts-stolen-by-phishing-emails-sent-through-google&amp;ss=tw&amp;rt=Des+milliers+de+Facebook+ont+%C3%A9t%C3%A9+pirat%C3%A9s+%C3%A0+la+suite+d%27e-mails+de+hame%C3%A7onnage+envoy%C3%A9s+via+Google&amp;cd=KhE5Mjk5MTE1ODIwODg4NzQ2MDIZNTg3ZjdlZTgzNDZjNTUxYjpmcjpmcjpGUg&amp;ssp=AMJHsmXUoVSZQBJGcvXK5YgtbLAEmq3CAg
+            </a>
+            
+          </li>
+        
+
+        
+          <li>
+            <a href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.frandroid.com/actualites-generales/3086647_cest-inquietant-le-piratage-de-lants-france-titres-viendrait-dune-faille-absurde&amp;ct=ga&amp;cd=CAEYASoROTI5OTExNTgyMDg4ODc0NjAyGTU4N2Y3ZWU4MzQ2YzU1MWI6ZnI6ZnI6RlI&amp;usg=AOvVaw0F1AVaEt0oZ296jlRFFyce" target="_blank" rel="noopener noreferrer">
+              C&amp;#39;est inquiétant : le piratage de l&amp;#39;ANTS (France Titres) viendrait d&amp;#39;une faille absurde
+            </a>
+            <div class="url">https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.frandroid.com/actualites-generales/3086647_cest-inquietant-le-piratage-de-lants-france-titres-viendrait-dune-faille-absurde&amp;ct=ga&amp;cd=CAEYASoROTI5OTExNTgyMDg4ODc0NjAyGTU4N2Y3ZWU4MzQ2YzU1MWI6ZnI6ZnI6RlI&amp;usg=AOvVaw0F1AVaEt0oZ296jlRFFyce</div>
+          </li>
+        
+          <li>
+            <a href="https://www.google.fr/alerts/share?hl=fr&amp;gl=FR&amp;ru=https://www.frandroid.com/actualites-generales/3086647_cest-inquietant-le-piratage-de-lants-france-titres-viendrait-dune-faille-absurde&amp;ss=fb&amp;rt=C%27est+inqui%C3%A9tant+:+le+piratage+de+l%27ANTS+(France+Titres)+viendrait+d%27une+faille+absurde&amp;cd=KhE5Mjk5MTE1ODIwODg4NzQ2MDIZNTg3ZjdlZTgzNDZjNTUxYjpmcjpmcjpGUg&amp;ssp=AMJHsmXV185jb_0PQ_XOFGuqrWd4RdzHQg" target="_blank" rel="noopener noreferrer">
+              https://www.google.fr/alerts/share?hl=fr&amp;gl=FR&amp;ru=https://www.frandroid.com/actualites-generales/3086647_cest-inquietant-le-piratage-de-lants-france-titres-viendrait-dune-faille-absurde&amp;ss=fb&amp;rt=C%27est+inqui%C3%A9tant+:+le+piratage+de+l%27ANTS+(France+Titres)+viendrait+d%27une+faille+absurde&amp;cd=KhE5Mjk5MTE1ODIwODg4NzQ2MDIZNTg3ZjdlZTgzNDZjNTUxYjpmcjpmcjpGUg&amp;ssp=AMJHsmXV185jb_0PQ_XOFGuqrWd4RdzHQg
+            </a>
+            
+          </li>
+        
+          <li>
+            <a href="https://www.google.fr/alerts/share?hl=fr&amp;gl=FR&amp;ru=https://www.frandroid.com/actualites-generales/3086647_cest-inquietant-le-piratage-de-lants-france-titres-viendrait-dune-faille-absurde&amp;ss=tw&amp;rt=C%27est+inqui%C3%A9tant+:+le+piratage+de+l%27ANTS+(France+Titres)+viendrait+d%27une+faille+absurde&amp;cd=KhE5Mjk5MTE1ODIwODg4NzQ2MDIZNTg3ZjdlZTgzNDZjNTUxYjpmcjpmcjpGUg&amp;ssp=AMJHsmXV185jb_0PQ_XOFGuqrWd4RdzHQg" target="_blank" rel="noopener noreferrer">
+              https://www.google.fr/alerts/share?hl=fr&amp;gl=FR&amp;ru=https://www.frandroid.com/actualites-generales/3086647_cest-inquietant-le-piratage-de-lants-france-titres-viendrait-dune-faille-absurde&amp;ss=tw&amp;rt=C%27est+inqui%C3%A9tant+:+le+piratage+de+l%27ANTS+(France+Titres)+viendrait+d%27une+faille+absurde&amp;cd=KhE5Mjk5MTE1ODIwODg4NzQ2MDIZNTg3ZjdlZTgzNDZjNTUxYjpmcjpmcjpGUg&amp;ssp=AMJHsmXV185jb_0PQ_XOFGuqrWd4RdzHQg
+            </a>
+            
+          </li>
+        
+        
+          <li>
+            <a href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://itsocial.fr/cybersecurite/cybersecurite-actualites/anatomie-dune-vulnerabilite-copy-fail-donne-les-droits-root-sur-tout-noyau-linux-depuis-2017/&amp;ct=ga&amp;cd=CAEYAioROTI5OTExNTgyMDg4ODc0NjAyGTU4N2Y3ZWU4MzQ2YzU1MWI6ZnI6ZnI6RlI&amp;usg=AOvVaw3_vg-B-2KJkkI9ZcaJLE12" target="_blank" rel="noopener noreferrer">
+              Anatomie d&amp;#39;une vulnérabilité : Copy Fail donne les droits root sur tout noyau Linux depuis 2017
+            </a>
+            <div class="url">https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://itsocial.fr/cybersecurite/cybersecurite-actualites/anatomie-dune-vulnerabilite-copy-fail-donne-les-droits-root-sur-tout-noyau-linux-depuis-2017/&amp;ct=ga&amp;cd=CAEYAioROTI5OTExNTgyMDg4ODc0NjAyGTU4N2Y3ZWU4MzQ2YzU1MWI6ZnI6ZnI6RlI&amp;usg=AOvVaw3_vg-B-2KJkkI9ZcaJLE12</div>
+          </li>
+        
+          <li>
+            <a href="https://www.google.fr/alerts/share?hl=fr&amp;gl=FR&amp;ru=https://itsocial.fr/cybersecurite/cybersecurite-actualites/anatomie-dune-vulnerabilite-copy-fail-donne-les-droits-root-sur-tout-noyau-linux-depuis-2017/&amp;ss=fb&amp;rt=Anatomie+d%27une+vuln%C3%A9rabilit%C3%A9+:+Copy+Fail+donne+les+droits+root+sur+tout+noyau+Linux+depuis+2017&amp;cd=KhE5Mjk5MTE1ODIwODg4NzQ2MDIZNTg3ZjdlZTgzNDZjNTUxYjpmcjpmcjpGUg&amp;ssp=AMJHsmU9MN7p0iOrWBjfgLNTJN4nuIirmQ" target="_blank" rel="noopener noreferrer">
+              https://www.google.fr/alerts/share?hl=fr&amp;gl=FR&amp;ru=https://itsocial.fr/cybersecurite/cybersecurite-actualites/anatomie-dune-vulnerabilite-copy-fail-donne-les-droits-root-sur-tout-noyau-linux-depuis-2017/&amp;ss=fb&amp;rt=Anatomie+d%27une+vuln%C3%A9rabilit%C3%A9+:+Copy+Fail+donne+les+droits+root+sur+tout+noyau+Linux+depuis+2017&amp;cd=KhE5Mjk5MTE1ODIwODg4NzQ2MDIZNTg3ZjdlZTgzNDZjNTUxYjpmcjpmcjpGUg&amp;ssp=AMJHsmU9MN7p0iOrWBjfgLNTJN4nuIirmQ
+            </a>
+            
+          </li>
+        
+          <li>
+            <a href="https://www.google.fr/alerts/share?hl=fr&amp;gl=FR&amp;ru=https://itsocial.fr/cybersecurite/cybersecurite-actualites/anatomie-dune-vulnerabilite-copy-fail-donne-les-droits-root-sur-tout-noyau-linux-depuis-2017/&amp;ss=tw&amp;rt=Anatomie+d%27une+vuln%C3%A9rabilit%C3%A9+:+Copy+Fail+donne+les+droits+root+sur+tout+noyau+Linux+depuis+2017&amp;cd=KhE5Mjk5MTE1ODIwODg4NzQ2MDIZNTg3ZjdlZTgzNDZjNTUxYjpmcjpmcjpGUg&amp;ssp=AMJHsmU9MN7p0iOrWBjfgLNTJN4nuIirmQ" target="_blank" rel="noopener noreferrer">
+              https://www.google.fr/alerts/share?hl=fr&amp;gl=FR&amp;ru=https://itsocial.fr/cybersecurite/cybersecurite-actualites/anatomie-dune-vulnerabilite-copy-fail-donne-les-droits-root-sur-tout-noyau-linux-depuis-2017/&amp;ss=tw&amp;rt=Anatomie+d%27une+vuln%C3%A9rabilit%C3%A9+:+Copy+Fail+donne+les+droits+root+sur+tout+noyau+Linux+depuis+2017&amp;cd=KhE5Mjk5MTE1ODIwODg4NzQ2MDIZNTg3ZjdlZTgzNDZjNTUxYjpmcjpmcjpGUg&amp;ssp=AMJHsmU9MN7p0iOrWBjfgLNTJN4nuIirmQ
+            </a>
+            
+          </li>
+        
+
+        
+
+        
+          <li>
+            <a href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.lejournaldesentreprises.com/article/le-seul-marqueur-reconnu-par-la-cnil-pour-materialiser-un-cloud-souverain-cest-la-qualification-2140716&amp;ct=ga&amp;cd=CAEYACoROTI5OTExNTgyMDg4ODcyMDYyGTkyMWQzMWFiMDA4M2I5Nzk6ZnI6ZnI6RlI&amp;usg=AOvVaw1tHJPxSIgueCpkxdlE3X1S" target="_blank" rel="noopener noreferrer">
+              &amp;quot;Le seul marqueur reconnu par la CNIL pour matérialiser un cloud souverain c&amp;#39;est la ...
+            </a>
+            <div class="url">https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.lejournaldesentreprises.com/article/le-seul-marqueur-reconnu-par-la-cnil-pour-materialiser-un-cloud-souverain-cest-la-qualification-2140716&amp;ct=ga&amp;cd=CAEYACoROTI5OTExNTgyMDg4ODcyMDYyGTkyMWQzMWFiMDA4M2I5Nzk6ZnI6ZnI6RlI&amp;usg=AOvVaw1tHJPxSIgueCpkxdlE3X1S</div>
+          </li>
+        
+          <li>
+            <a href="https://www.google.fr/alerts/share?hl=fr&amp;gl=FR&amp;ru=https://www.lejournaldesentreprises.com/article/le-seul-marqueur-reconnu-par-la-cnil-pour-materialiser-un-cloud-souverain-cest-la-qualification-2140716&amp;ss=fb&amp;rt=%22Le+seul+marqueur+reconnu+par+la+CNIL+pour+mat%C3%A9rialiser+un+cloud+souverain+c%27est+la+...&amp;cd=KhE5Mjk5MTE1ODIwODg4NzIwNjIZOTIxZDMxYWIwMDgzYjk3OTpmcjpmcjpGUg&amp;ssp=AMJHsmW--kWcmzcA-o1cwp1Y3vCtZ3J4PQ" target="_blank" rel="noopener noreferrer">
+              https://www.google.fr/alerts/share?hl=fr&amp;gl=FR&amp;ru=https://www.lejournaldesentreprises.com/article/le-seul-marqueur-reconnu-par-la-cnil-pour-materialiser-un-cloud-souverain-cest-la-qualification-2140716&amp;ss=fb&amp;rt=%22Le+seul+marqueur+reconnu+par+la+CNIL+pour+mat%C3%A9rialiser+un+cloud+souverain+c%27est+la+...&amp;cd=KhE5Mjk5MTE1ODIwODg4NzIwNjIZOTIxZDMxYWIwMDgzYjk3OTpmcjpmcjpGUg&amp;ssp=AMJHsmW--kWcmzcA-o1cwp1Y3vCtZ3J4PQ
+            </a>
+            
+          </li>
+        
+          <li>
+            <a href="https://www.google.fr/alerts/share?hl=fr&amp;gl=FR&amp;ru=https://www.lejournaldesentreprises.com/article/le-seul-marqueur-reconnu-par-la-cnil-pour-materialiser-un-cloud-souverain-cest-la-qualification-2140716&amp;ss=tw&amp;rt=%22Le+seul+marqueur+reconnu+par+la+CNIL+pour+mat%C3%A9rialiser+un+cloud+souverain+c%27est+la+...&amp;cd=KhE5Mjk5MTE1ODIwODg4NzIwNjIZOTIxZDMxYWIwMDgzYjk3OTpmcjpmcjpGUg&amp;ssp=AMJHsmW--kWcmzcA-o1cwp1Y3vCtZ3J4PQ" target="_blank" rel="noopener noreferrer">
+              https://www.google.fr/alerts/share?hl=fr&amp;gl=FR&amp;ru=https://www.lejournaldesentreprises.com/article/le-seul-marqueur-reconnu-par-la-cnil-pour-materialiser-un-cloud-souverain-cest-la-qualification-2140716&amp;ss=tw&amp;rt=%22Le+seul+marqueur+reconnu+par+la+CNIL+pour+mat%C3%A9rialiser+un+cloud+souverain+c%27est+la+...&amp;cd=KhE5Mjk5MTE1ODIwODg4NzIwNjIZOTIxZDMxYWIwMDgzYjk3OTpmcjpmcjpGUg&amp;ssp=AMJHsmW--kWcmzcA-o1cwp1Y3vCtZ3J4PQ
+            </a>
+            
+          </li>
+        
+        
+          <li>
+            <a href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://uniondesmarques.fr/ressources/emails-et-pixels-de-suivi-la-recommandation-finale-de-la-cnil-clarifie-les-r%25C3%25A8gles-applicables%3Fhs_amp%3Dtrue&amp;ct=ga&amp;cd=CAEYASoROTI5OTExNTgyMDg4ODcyMDYyGTkyMWQzMWFiMDA4M2I5Nzk6ZnI6ZnI6RlI&amp;usg=AOvVaw2-YsPDylmJwa1SBkDTmAlh" target="_blank" rel="noopener noreferrer">
+              Emails et pixels de suivi : la recommandation finale de la CNIL clarifie les règles applicables
+            </a>
+            <div class="url">https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://uniondesmarques.fr/ressources/emails-et-pixels-de-suivi-la-recommandation-finale-de-la-cnil-clarifie-les-r%25C3%25A8gles-applicables%3Fhs_amp%3Dtrue&amp;ct=ga&amp;cd=CAEYASoROTI5OTExNTgyMDg4ODcyMDYyGTkyMWQzMWFiMDA4M2I5Nzk6ZnI6ZnI6RlI&amp;usg=AOvVaw2-YsPDylmJwa1SBkDTmAlh</div>
+          </li>
+        
+          <li>
+            <a href="https://www.google.fr/alerts/share?hl=fr&amp;gl=FR&amp;ru=https://uniondesmarques.fr/ressources/emails-et-pixels-de-suivi-la-recommandation-finale-de-la-cnil-clarifie-les-r%C3%A8gles-applicables%3Fhs_amp%3Dtrue&amp;ss=fb&amp;rt=Emails+et+pixels+de+suivi+:+la+recommandation+finale+de+la+CNIL+clarifie+les+r%C3%A8gles+applicables&amp;cd=KhE5Mjk5MTE1ODIwODg4NzIwNjIZOTIxZDMxYWIwMDgzYjk3OTpmcjpmcjpGUg&amp;ssp=AMJHsmWPda8Fs3wREP2yMMFzpfehc8JkmA" target="_blank" rel="noopener noreferrer">
+              https://www.google.fr/alerts/share?hl=fr&amp;gl=FR&amp;ru=https://uniondesmarques.fr/ressources/emails-et-pixels-de-suivi-la-recommandation-finale-de-la-cnil-clarifie-les-r%C3%A8gles-applicables%3Fhs_amp%3Dtrue&amp;ss=fb&amp;rt=Emails+et+pixels+de+suivi+:+la+recommandation+finale+de+la+CNIL+clarifie+les+r%C3%A8gles+applicables&amp;cd=KhE5Mjk5MTE1ODIwODg4NzIwNjIZOTIxZDMxYWIwMDgzYjk3OTpmcjpmcjpGUg&amp;ssp=AMJHsmWPda8Fs3wREP2yMMFzpfehc8JkmA
+            </a>
+            
+          </li>
+        
+          <li>
+            <a href="https://www.google.fr/alerts/share?hl=fr&amp;gl=FR&amp;ru=https://uniondesmarques.fr/ressources/emails-et-pixels-de-suivi-la-recommandation-finale-de-la-cnil-clarifie-les-r%C3%A8gles-applicables%3Fhs_amp%3Dtrue&amp;ss=tw&amp;rt=Emails+et+pixels+de+suivi+:+la+recommandation+finale+de+la+CNIL+clarifie+les+r%C3%A8gles+applicables&amp;cd=KhE5Mjk5MTE1ODIwODg4NzIwNjIZOTIxZDMxYWIwMDgzYjk3OTpmcjpmcjpGUg&amp;ssp=AMJHsmWPda8Fs3wREP2yMMFzpfehc8JkmA" target="_blank" rel="noopener noreferrer">
+              https://www.google.fr/alerts/share?hl=fr&amp;gl=FR&amp;ru=https://uniondesmarques.fr/ressources/emails-et-pixels-de-suivi-la-recommandation-finale-de-la-cnil-clarifie-les-r%C3%A8gles-applicables%3Fhs_amp%3Dtrue&amp;ss=tw&amp;rt=Emails+et+pixels+de+suivi+:+la+recommandation+finale+de+la+CNIL+clarifie+les+r%C3%A8gles+applicables&amp;cd=KhE5Mjk5MTE1ODIwODg4NzIwNjIZOTIxZDMxYWIwMDgzYjk3OTpmcjpmcjpGUg&amp;ssp=AMJHsmWPda8Fs3wREP2yMMFzpfehc8JkmA
+            </a>
+            
+          </li>
+        
+
+        
+          <li>
+            <a href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://pointsdevente.fr/solutions/personnalisation-des-publicites-les-ecrans-de-winter-mushroom-bloques-par-la-cnil/&amp;ct=ga&amp;cd=CAEYAioROTI5OTExNTgyMDg4ODcyMDYyGTkyMWQzMWFiMDA4M2I5Nzk6ZnI6ZnI6RlI&amp;usg=AOvVaw1jHuWd7iueHcHYTJvy1Zkh" target="_blank" rel="noopener noreferrer">
+              Personnalisation des publicités : Les écrans de Winter-Mushroom bloqués par la Cnil
+            </a>
+            <div class="url">https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://pointsdevente.fr/solutions/personnalisation-des-publicites-les-ecrans-de-winter-mushroom-bloques-par-la-cnil/&amp;ct=ga&amp;cd=CAEYAioROTI5OTExNTgyMDg4ODcyMDYyGTkyMWQzMWFiMDA4M2I5Nzk6ZnI6ZnI6RlI&amp;usg=AOvVaw1jHuWd7iueHcHYTJvy1Zkh</div>
+          </li>
+        
+          <li>
+            <a href="https://www.google.fr/alerts/share?hl=fr&amp;gl=FR&amp;ru=https://pointsdevente.fr/solutions/personnalisation-des-publicites-les-ecrans-de-winter-mushroom-bloques-par-la-cnil/&amp;ss=fb&amp;rt=Personnalisation+des+publicit%C3%A9s+:+Les+%C3%A9crans+de+Winter-Mushroom+bloqu%C3%A9s+par+la+Cnil&amp;cd=KhE5Mjk5MTE1ODIwODg4NzIwNjIZOTIxZDMxYWIwMDgzYjk3OTpmcjpmcjpGUg&amp;ssp=AMJHsmV0wjif8OPofX-kQwcHh1FxjLwkhg" target="_blank" rel="noopener noreferrer">
+              https://www.google.fr/alerts/share?hl=fr&amp;gl=FR&amp;ru=https://pointsdevente.fr/solutions/personnalisation-des-publicites-les-ecrans-de-winter-mushroom-bloques-par-la-cnil/&amp;ss=fb&amp;rt=Personnalisation+des+publicit%C3%A9s+:+Les+%C3%A9crans+de+Winter-Mushroom+bloqu%C3%A9s+par+la+Cnil&amp;cd=KhE5Mjk5MTE1ODIwODg4NzIwNjIZOTIxZDMxYWIwMDgzYjk3OTpmcjpmcjpGUg&amp;ssp=AMJHsmV0wjif8OPofX-kQwcHh1FxjLwkhg
+            </a>
+            
+          </li>
+        
+          <li>
+            <a href="https://www.google.fr/alerts/share?hl=fr&amp;gl=FR&amp;ru=https://pointsdevente.fr/solutions/personnalisation-des-publicites-les-ecrans-de-winter-mushroom-bloques-par-la-cnil/&amp;ss=tw&amp;rt=Personnalisation+des+publicit%C3%A9s+:+Les+%C3%A9crans+de+Winter-Mushroom+bloqu%C3%A9s+par+la+Cnil&amp;cd=KhE5Mjk5MTE1ODIwODg4NzIwNjIZOTIxZDMxYWIwMDgzYjk3OTpmcjpmcjpGUg&amp;ssp=AMJHsmV0wjif8OPofX-kQwcHh1FxjLwkhg" target="_blank" rel="noopener noreferrer">
+              https://www.google.fr/alerts/share?hl=fr&amp;gl=FR&amp;ru=https://pointsdevente.fr/solutions/personnalisation-des-publicites-les-ecrans-de-winter-mushroom-bloques-par-la-cnil/&amp;ss=tw&amp;rt=Personnalisation+des+publicit%C3%A9s+:+Les+%C3%A9crans+de+Winter-Mushroom+bloqu%C3%A9s+par+la+Cnil&amp;cd=KhE5Mjk5MTE1ODIwODg4NzIwNjIZOTIxZDMxYWIwMDgzYjk3OTpmcjpmcjpGUg&amp;ssp=AMJHsmV0wjif8OPofX-kQwcHh1FxjLwkhg
+            </a>
+            
+          </li>
+        
+
+              </ul>
+    </section>
+  
+</body>
+</html>
